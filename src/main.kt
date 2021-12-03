@@ -7,4 +7,6 @@ fun main() {
     mc.doAction()
     val k = a()
     k.tt()
+    val p = a()
+    p.pp()
 }

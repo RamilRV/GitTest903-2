@@ -1,3 +1,4 @@
 class a {
-    fun tt(){println("qweqew")}
+    fun tt(){println("Привет")}
+    fun pp(){println("Пока")}
 }
