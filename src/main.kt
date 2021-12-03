@@ -9,6 +9,8 @@ fun main() {
     mc.doAction()
     val k = a()
     k.tt()
-    val p = a()
-    p.pp()
+    val d = a()
+    d.pp()
+    //koment
+    val y = a()
 }
